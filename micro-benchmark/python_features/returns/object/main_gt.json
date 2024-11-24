@@ -4,7 +4,7 @@
         "line_number": 5,
         "col_offset": 24,
         "parameter": "name",
-        "function": "__init__",
+        "function": "Person.__init__",
         "type": [
             "str"
         ]
@@ -14,7 +14,7 @@
         "line_number": 5,
         "col_offset": 30,
         "parameter": "age",
-        "function": "__init__",
+        "function": "Person.__init__",
         "type": [
             "int"
         ]
@@ -24,7 +24,7 @@
         "line_number": 6,
         "col_offset": 9,
         "variable": "Person.name",
-        "function": "__init__",
+        "function": "Person.__init__",
         "type": [
             "str"
         ]
@@ -34,7 +34,7 @@
         "line_number": 7,
         "col_offset": 9,
         "parameter": "Person.age",
-        "function": "__init__",
+        "function": "Person.__init__",
         "type": [
             "int"
         ]
